@@ -2,11 +2,11 @@
 Buildable snake game with arduino and electronics
 
 
-Required
+Required 
     Arduino
     8x8 LED Matrix
     Analog Joystick
     
-Utilizes
+Utilizes 
     MAX7219 Library
 
